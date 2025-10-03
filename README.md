@@ -6,9 +6,9 @@
         "Allowoffline": false
     },
     {
-        "device_id": "device456",
-        "key": "key67890",
-        "expirydate": "15-06-2025",
+        "device_id": "2a7861361e30e49e",
+        "key": "users3501rabel",
+        "expirydate": "15-06-2099",
         "Allowoffline": false
     }
 ]
